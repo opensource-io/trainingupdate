@@ -9,17 +9,20 @@ client_secret.json
 
 # app.properties
 
+```
 training.api.class-sessions= (url to fetch schedule from)
 jenkinsemail.to= (recipient email address)
 jenkinsemail.from= (senders email address)
 jenkinsemail.recipientname= (recipient's name)
 jenkinsemail.sendername= (sender's name)
+```
 
 
 # client_secret.json
 
 (This file is specified by the Google API)
 
+```
 {
   "installed": {
     "client_id": "123.....googleusercontent.com",
@@ -29,6 +32,7 @@ jenkinsemail.sendername= (sender's name)
     "token_uri": "https://accounts.google.com/o/oauth2/token"
   }
 }
+```
 
 # run
 
