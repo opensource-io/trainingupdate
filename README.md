@@ -37,3 +37,5 @@ jenkinsemail.sendername= (sender's name)
 # run
 
 With everything in the current directory simply run io.opensource.trainingupdate.App
+
+For more information and assistance please contact rob@opensource.io or visit https://opensource.io/
